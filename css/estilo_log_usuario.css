@@ -12,7 +12,7 @@
 #topo{
     width: 100%;
     background-color: darkgray;
-    
+    position: fixed;   
 }
 #img{
     width: 30%;
@@ -72,20 +72,14 @@ ul{
 .sub{
     display: none;
 }
-#es, h1{
+#es{
     font-family: Arial;
     font-size: 15px;
     text-decoration: none;
     margin-left: 5%;
     margin-top: 25px;
 }
-#visu{
-    font-family: Arial;
-    font-size: 15px;
-    text-decoration: none;
-    margin-left: 5%;
-    margin-top: 5px;
-}
+
 
 
 
@@ -155,12 +149,12 @@ ul{
     margin-left: 2%;
 }
 #campo3{
-    width: 30%;
-    height: 550px;
+    width: 35.5%;
+    height: 500px;
     // background-color: black;
-    margin-top: -900px;
-    margin-left:70%;
-    float: left;
+    margin-top: -600px;
+    margin-right: -38%;
+    float: right;
 }
 #seguraP{
     width: 40%;
