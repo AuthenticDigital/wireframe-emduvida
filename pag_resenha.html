@@ -1,16 +1,103 @@
 <!DOCTYPE html>
-<!--
-To change this license header, choose License Headers in Project Properties.
-To change this template file, choose Tools | Templates
-and open the template in the editor.
--->
 <html>
     <head>
-        <title>TODO supply a title</title>
+        <title>Em Dúvida</title>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" type="text/css" href="css/estilo_resenha.css">
+       <script>
+            function mostraSub(valor){
+                verifica=document.getElementById(valor).style.display;
+                if(verifica !=="block"){
+                    document.getElementById(valor).style.display="block";
+                }
+                else{
+                    document.getElementById(valor).style.display="none";
+                }                
+            }
+        </script>
     </head>
     <body>
-        <div>TODO write content</div>
+        
+        <header id="topo">
+            
+            <section id="img">
+             </section>
+            <input type="search" name="buscar" id="busca" placeholder="buscar">   
+        </header>
+           <nav id="nav"> 
+               <a href="index.html" class="link"> INÍCIO </a>
+               <a href="pag_sobre.html" class="link"> SOBRE NÓS </a>
+               <a href="pag_contato.html" class="link"> CONTATO </a>
+               
+               <a href="pag_entrar.html" class="menu1"> ENTRAR</a>
+               <a href="pag_cadastro.html" class="menu1"> CADASTRO</a>
+               
+               <a href="#" onclick="mostraSub('categorias');" id="menu2">CATEGORIAS</a>
+                            <ul id="categorias" class="sub">
+                                <li><a href="#" class="es">Eletrônicos</a></li>
+                                <li><a href="#" class="es">Cultura</a></li>
+                                <li><a href="#" class="es">Cosméticos</a></li>
+                                <li><a href="#" class="es">Eletrodomésticos</a></li>
+                                <li><a href="#" class="es">Outros</a></li>
+                            </ul>
+            </nav>
+        <section id="conteudo">
+              <article id="resenha">
+        <h1>Em Dúvida</h1><br/>
+               <img src="img/imagem_resenha.jpg" alt="imagem da resenha" id="img_resenha">
+        <p id="texto_resenha"> 
+        O iPhone 5c é inovador, o designer é lindo, tela retina de 4 polegadas, é de plástico bicarbonato. Ele foi disponibilizado em cinco cores, Azul, verde, amarelo, rosa e branco, a câmera do 5c não tem o que reclamar, é iSight de 8MP, e com o iOS 8, memória de 8, 16, 32  GB.
+A cor da minha preferência foi o azul, é o mais bonito, estou com ele faz uns 2 meses e meio, e até agora não tive o que reclamar, o touch dele é ótimo, e nele já vem alguns aplicativos, como o FaceTime, com Bussola, Dicas, Gravador de Voz, Podcasts, Game Center, Bolsa de Valores, Saúde entre outros, ele é uma opção mais barata do iphone, digamos que ele ficou no lugar do iphone 5, só que com o designer diferente.
+Pontos Negativos: Bateria, Preço.
+
+        </p>
+        
+         
+                        
+     
+              </article>
+    
+                
+                <section id="campo3">
+                    <h1> Melhores Produtos</h1>
+                
+                <section class="seguraP">
+                    <a href="pag_resenha.html" class="es">Nome da Resenha</a>
+                </section>
+                
+                <section class="seguraP">
+                    <a href="pag_resenha.html" class="es">Nome da Resenha</a>
+                    
+                    </section>
+                <section class="seguraP">
+                    <a href="pag_resenha.html" class="es">Nome da Resenha</a>
+                    
+                </section>
+                    <section class="seguraP">
+                    <a href="pag_resenha.html" class="es">Nome da Resenha</a>
+                    
+                    </section>
+                <section class="seguraP">
+                    <a href="pag_resenha.html" class="es">Nome da Resenha</a>
+                    
+                </section>
+                    <section class="seguraP">
+                    <a href="pag_resenha.html" class="es">Nome da Resenha</a>
+                    
+                </section>
+                
+                </section>
+         
+        </section>
+            <footer id="rodape">
+                <img src="img/icon_gg.png" alt="icon_gg" id="logoEmp">
+                <a href="#" ><img src="img/icon_fb.png" alt="icon_fb" class="icones"></a>
+                <a href="#" ><img src="img/icon_tw.png" alt="icon_tw" class="icones1"></a>
+                <a href="#" ><img src="img/icon_gg.png" alt="icon_gg" class="icones2"></a>
+                <a href="#" class="pp"> Política de Privacidade</a>
+                <a href="#" class="pp"> Termos de Uso</a>
+                <p id="mark">All Rights Reserved - Todos os Direitos Reservados<br/><br/>Em Dúvida 2015</p>
+            </footer>
     </body>
 </html>
