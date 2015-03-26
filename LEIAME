@@ -1,0 +1,11 @@
+Assim que abrir um projeto, extrair os arquivos que estão online da seguinte forma:
+Botão direito do mouse sobre o nome do projeto > git > remoto > extração.
+
+assim que alterar alguma pagina fazer um commit e expandir:
+
+BOtão direito do mouse sobre o nome do projeto > git > commit, na pagina que abrir adicionar comentario de commit, ex: editando a pagina de contato
+clicar em fazer commit.
+para expandir: BOtao direito do mouse sobre o nome do projeto>git>remoto>expandir - colocar email e senha e expandir.
+
+
+QUANDO TODOS ESTIVEREM TRABALHANDO NO MESMO PROJETO, FAZER EXTRAÇÃO MOMENTANEAMENTE PARA QUE NÃO HAJA CONFLITOS.
