@@ -28,6 +28,14 @@
     float: left;
     border-radius: 5px;
 }
+#busc{
+    width: 6%;
+    float: right;
+    margin-right:13%;
+    margin-top: -64px;
+    border-radius: 2px;
+    border-bottom-style: none;
+}
 .link{
     font-family: Arial;
     font-size: 15px;
@@ -201,7 +209,7 @@ ul{
     font-family: Arial;
     font-size: 15px;
     text-decoration: none;
-    margin-right: 10%;
+    margin-right: 5%;
     margin-top: -40px;
     display: block;
     text-align: right;

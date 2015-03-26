@@ -28,6 +28,14 @@
     float: left;
     border-radius: 5px;
 }
+#busc{
+    width: 6%;
+    float: right;
+    margin-right:13%;
+    margin-top: -64px;
+    border-radius: 2px;
+    border-bottom-style: none;
+}
 .link{
     font-family: Arial;
     font-size: 15px;
@@ -99,17 +107,30 @@ ul{
     background-color: activecaption;
 }
 
-#fb, #tw, #gg{
+.icones, .icones1, .icones2{
     width: 3%;
-    height: 20px;
-    float: left;
-    margin-top: -65px;
-    background-color: background;
-    margin-left: 24%;
+    
+    display: inline;
+    
 }
-#tw{
-    margin-left: 29%;
+.icones{
+    margin-left: 5%;
+    
 }
-#gg{
-     margin-left: 34%;
+.pp{
+    font-family: Arial;
+    font-size: 15px;
+    text-decoration: none;
+    margin-right: 5%;
+    margin-top: -40px;
+    display: block;
+    text-align: right;
+}
+#mark{
+    font-family: Arial;
+    font-size: 15px;
+    margin-right: 2%;
+    margin-top: -20px;
+    display: block;
+    text-align: center;
 }
