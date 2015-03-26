@@ -94,7 +94,14 @@ ul{
 }
 
 
-
+#formulario{
+    width: 95%;
+    height: 500px;
+    background-color: lightslategray;
+    margin-left: 2.5%;
+    margin-top: 1.5%;
+    
+}
 
 
 
