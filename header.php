@@ -12,30 +12,18 @@
         <li class="liPadrao"><button class="formPadrao btnCadLogin"><i class="fa fa fa-sign-in "></i>Entrar</button></li>
     </ul>
     
-    <nav id="nav"> 
+    <nav class="menu"> 
         
-        <ul class="ulPadrao">
-            <li class="liPadrao"><a href="" class="libkPadrao">Inicio</a></li>
-            <li class="liPadrao"><a href="" class="libkPadrao">Eletrodomésticos</a></li>
-            <li class="liPadrao"><a href="" class="libkPadrao">Eletrônicos</a></li>
-            <li class="liPadrao"><a href="" class="libkPadrao">Cultura</a></li>
-            <li class="liPadrao"><a href="" class="libkPadrao">Outros</a></li>
+        <ul class="ulPadrao ulMenu">
+            <li class="liPadrao liMenu"><a href="" class="linkPadrao">Inicio</a></li>
+            <li class="liPadrao liMenu"><a href="" class="linkPadrao">Eletrodomésticos</a></li>
+            <li class="liPadrao liMenu"><a href="" class="linkPadrao">Eletrônicos</a></li>
+            <li class="liPadrao liMenu"><a href="" class="linkPadrao">Cultura</a></li>
+            <li class="liPadrao liMenu"><a href="" class="linkPadrao">Outros <i class="fa fa-caret-down"></i></a></li>
+            
+            <li class="liPadrao liMenu fright"><a href="" class="linkPadrao ">Sobre nós</a></li>
+            <li class="liPadrao liMenu fright"><a href="" class="linkPadrao fright">Contato</a></li>
         </ul>
-        <!--    <a href="index.html" class="link"> INÍCIO </a>
-            <a href="pag_sobre.html" class="link"> SOBRE NÓS </a>
-            <a href="pag_contato.html" class="link"> CONTATO </a>
-        
-            <a href="pag_entrar.html" class="menu1"> ENTRAR</a>
-            <a href="pag_cadastro.html" class="menu1"> CADASTRO</a>
-        
-            <a href="#" onclick="mostraSub('categorias');" id="menu2">CATEGORIAS</a>
-            <ul id="categorias" class="sub">
-                <li><a href="#" class="es">Eletrônicos</a></li>
-                <li><a href="#" class="es">Cultura</a></li>
-                <li><a href="#" class="es">Cosméticos</a></li>
-                <li><a href="#" class="es">Eletrodomésticos</a></li>
-                <li><a href="#" class="es">Outros</a></li>
-            </ul>-->
     </nav>
 
 
