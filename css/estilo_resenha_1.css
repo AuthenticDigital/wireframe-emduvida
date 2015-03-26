@@ -1,0 +1,184 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+#tudo{
+    
+    width: 100%;
+    background-color: #000;
+    
+}
+
+#topo{
+    width: 100%;
+    background-color: darkgray;
+    
+}
+#img{
+    width: 30%;
+    height: 119px;
+    margin-left: 2%;
+    background-color: activecaption;
+}
+#busca{
+    width: 30%;
+    height: 31.113px;
+    margin-top: -70px;
+    margin-left: 50%;
+    float: left;
+    border-radius: 5px;
+}
+.link{
+    font-family: Arial;
+    font-size: 15px;
+    text-decoration: none;
+    display: inline;
+    margin-left: 40px;
+    
+}
+#nav{
+    width: 100%;
+    height: 30.179px;
+    background-color: grey;
+}
+.menu1{
+    font-family: Arial;
+    font-size: 15px;
+    text-decoration: none;
+    display: inline;
+    float: right;
+    margin-right: 25px;
+    
+}
+#menu2{
+    font-family: Arial;
+    font-size: 15px;
+    text-decoration: none;
+    
+    float: right;
+    margin-right:25px;
+    
+}
+ul{
+    list-style: none;
+    margin: 1.69px;
+    padding: 0px;
+    margin-left: 70%;
+    margin-top: 10px;
+    background-color: aliceblue;
+    width: 10%;
+    position: fixed;
+}
+.sub{
+    display: none;
+}
+.es, h1{
+    font-family: Arial;
+    font-size: 15px;
+    text-decoration: none;
+    margin-left: 5%;
+    margin-top: 25px;
+}
+/* #visu{
+    font-family: Arial;
+    font-size: 15px;
+    text-decoration: none;
+    margin-left: 5%;
+    margin-top: 5px;
+}
+*/
+
+
+#segura{
+    width: 35%;
+    height: 300px;
+    background-color: gainsboro;
+    margin-top: 16px;
+    margin-left:2%;
+    float: left;
+    
+}
+
+#campo3{
+    width: 30%;
+    height: 550px;
+    // background-color: black;
+    margin-top: -600px;
+    margin-left:70%;
+    float: left;
+}
+.seguraP{
+    width: 40%;
+    height: 145px;
+    background-color: gainsboro;
+    margin-top: 15px;
+    margin-left: 7%;
+    float: left;
+}
+
+
+
+
+#rodape{
+    width: 100%;
+    height: 138px;
+    background-color: lightslategrey;
+    margin-top: 5%;
+}
+#logoEmp{
+    width: 20%;
+    height: 138px;
+    margin-left: 2%;
+    background-color: activecaption;
+}
+
+.icones, .icones1, .icones2{
+    width: 3%;
+    
+    display: inline;
+    
+}
+.icones{
+    margin-left: 5%;
+    
+}
+.pp{
+    font-family: Arial;
+    font-size: 15px;
+    text-decoration: none;
+    margin-right: 10%;
+    margin-top: -40px;
+    display: block;
+    text-align: right;
+}
+#mark{
+    font-family: Arial;
+    font-size: 15px;
+    margin-right: 2%;
+    margin-top: -20px;
+    display: block;
+    text-align: center;
+}
+
+#resenha{
+     width: 70%;
+    height: 700px;
+    margin-left: 2%;
+   
+    
+}
+
+#texto_resenha{
+    width: 80%;
+    height: 400px;
+    margin-left: 2%;
+    border-radius: 2%;
+    border-color: #cccccc;
+    margin-top: 20px;
+    
+}
+
+#img_resenha{
+    width: 90%;
+    height: 200px;
+}
