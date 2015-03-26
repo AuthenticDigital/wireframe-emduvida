@@ -5,7 +5,7 @@
 
 #cabecalho{
     width: 100%;
-    height: 145px;
+    height: 165px;
     background-color: #f2f2f2;
 }
 
@@ -27,7 +27,7 @@
 .formPesquisa{
     margin-left: 10%;
     position: absolute;
-    top: 20px;
+    top: 50px;
     width: 30%;
     display: inline-block;
     height: 30px;
@@ -77,7 +77,7 @@ input[type=image]{
 }
 .menu{
     width: 90%;
-    margin: 0 auto;
+    margin: 15px auto;
     height: 30px;
     border-top: 1px solid #dbdbdb;
 }
@@ -100,6 +100,129 @@ input[type=image]{
     float: right;
 }
 
+/*******************************************************************************
+*************************Editando a página inicial******************************
+********************************************************************************/
+
+.tituloPadrao{
+    font-size: 18pt;
+    word-spacing: 10px;
+    padding-bottom: 20px;
+}
+.conteudo{
+    width: 90%;
+    height: auto;
+    background-color: #fbfbfb;
+    border: 1px solid black;
+    margin: 0 auto;
+}
+
+
+.figureProd{
+    display: inline-block;
+    
+   
+}
+
+.normal{
+    width: 20%;
+    margin-top: 3px;
+    margin-left: 5px;
+    height: 200px;
+    background-color: #000;
+}
+
+
+
+
+.legendaProduto{
+    width: 100%;
+    height: 35px;
+    display: block;
+    float: left;
+    padding-top: 5px;
+    background-color: #000;
+    -webkit-filter: opacity(.7);
+}
+
+.legendaProduto > span{
+    color: #fff;
+    font-size: 15pt;
+    margin-left: 5px;
+    
+}
+
+.txtCanto{
+    float: right;
+    margin-right: 5px;
+}
+/******************************************************************************
+**************************Este css futuramente será gerado com php*************
+*******************************************************************************/
+
+
+.imgDestaque{
+    width: 100%;
+    height: 100%;
+    // -webkit-filter: opacity(.7);
+     z-index: -1;
+}
+
+.legendaProduto:hover{
+    
+    -webkit-filter: opacity(1);
+    -webkit-transition: 0.5s all; 
+}
+
+.destaquestar{
+    background-image: url(../img/imgProdutos/iphone5c.jpg);
+    background-position: center;
+}
+.destaque{
+    width: 35%;
+    float: left;
+    margin-top: 2px;
+    height: 400px;
+    
+}
+
+.exibirConteudo{
+    width: 90%;
+    margin-left: 5%;
+    margin-top: 20px;
+    height: auto;
+    display: inline-block;
+}
+
+#star1{
+    background-image: url(../img/imgProdutos/DSC00426.jpg);
+    background-position: center;
+}
+
+#star2{
+    background-image: url(../img/imgProdutos/7257480_1GG.jpg);
+    background-position: center;
+}
+
+#star3{
+    background-image: url(../img/imgProdutos/Samsung-Galaxy-Tab-3-7.0-Preview-03.jpg);
+    background-position: center;
+}
+
+#star4{
+    background-image: url(../img/imgProdutos/ipad-mini-3-7946-002.jpg);
+    background-position: center;
+}
+
+#star5{
+    background-image: url(../img/imgProdutos/pc-hp.jpg);
+    background-position: center;
+}
+
+#star6{
+    background-image: url(../img/imgProdutos/ArquivoExibir.jpg);
+    background-position: center;
+}
 
 
 
@@ -109,14 +232,7 @@ input[type=image]{
 
 
 
-
-
-
-
-
-
-
-
+/* 
 
 .es, h1{
     font-family: Arial;
@@ -125,7 +241,7 @@ input[type=image]{
     margin-left: 5%;
     margin-top: 25px;
 }
-/* #visu{
+#visu{
     font-family: Arial;
     font-size: 15px;
     text-decoration: none;
@@ -133,7 +249,7 @@ input[type=image]{
     margin-top: 5px;
 }
 */
-
+/*
 
 #segura{
     width: 35%;
@@ -259,4 +375,4 @@ input[type=image]{
     margin-top: -20px;
     display: block;
     text-align: center;
-}
+}*/
