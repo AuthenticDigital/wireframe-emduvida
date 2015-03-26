@@ -8,7 +8,7 @@
        <script>
             function mostraSub(valor){
                 verifica=document.getElementById(valor).style.display;
-                if(verifica !="block"){
+                if(verifica !=="block"){
                     document.getElementById(valor).style.display="block";
                 }
                 else{
@@ -26,20 +26,20 @@
             <input type="search" name="buscar" id="busca" placeholder="buscar">   
         </header>
            <nav id="nav"> 
-               <a href="index.html" id="link"> INÍCIO </a>
-               <a href="pag_sobre.html" id="link"> SOBRE NÓS </a>
-               <a href="pag_contato.html" id="link"> CONTATO </a>
+               <a href="index.html" class="link"> INÍCIO </a>
+               <a href="pag_sobre.html" class="link"> SOBRE NÓS </a>
+               <a href="pag_contato.html" class="link"> CONTATO </a>
                
-               <a href="pag_resenhar.html" id="menu1"> RESENHAR</a>
-               <a href="pag_perfil.html" id="menu1"> PERFIL </a>
+               <a href="pag_usuario.html" class="menu1"> PERFIL</a>
+               <a href="pag_resenhar.html" class="menu1"> RESENHAR</a>
                
                <a href="#" onclick="mostraSub('categorias');" id="menu2">CATEGORIAS</a>
                             <ul id="categorias" class="sub">
-                                <li><a href="#" id="es">Eletrônicos</a></li>
-                                <li><a href="#" id="es">Cultura</a></li>
-                                <li><a href="#" id="es">Cosméticos</a></li>
-                                <li><a href="#" id="es">Eletrodomésticos</a></li>
-                                <li><a href="#" id="es">Outros</a></li>
+                                <li><a href="#" class="es">Eletrônicos</a></li>
+                                <li><a href="#" class="es">Cultura</a></li>
+                                <li><a href="#" class="es">Cosméticos</a></li>
+                                <li><a href="#" class="es">Eletrodomésticos</a></li>
+                                <li><a href="#" class="es">Outros</a></li>
                             </ul>
             </nav>
         <section id="conteudo">

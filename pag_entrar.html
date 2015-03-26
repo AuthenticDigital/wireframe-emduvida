@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Em Dúvida</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" type="text/css" href="css/estilo.css">
+       <script>
+            function mostraSub(valor){
+                verifica=document.getElementById(valor).style.display;
+                if(verifica !=="block"){
+                    document.getElementById(valor).style.display="block";
+                }
+                else{
+                    document.getElementById(valor).style.display="none";
+                }                
+            }
+        </script>
+    </head>
+    <body>
+        
+        <header id="topo">
+            
+            <section id="img">
+             </section>
+            <input type="search" name="buscar" id="busca" placeholder="buscar">   
+        </header>
+           <nav id="nav"> 
+               <a href="index.html" class="link"> INÍCIO </a>
+               <a href="pag_sobre.html" class="link"> SOBRE NÓS </a>
+               <a href="pag_contato.html" class="link"> CONTATO </a>
+               
+               <a href="pag_entrar.html" class="menu1"> ENTRAR</a>
+               <a href="pag_cadastro.html" class="menu1"> CADASTRO</a>
+               
+               <a href="#" onclick="mostraSub('categorias');" id="menu2">CATEGORIAS</a>
+                            <ul id="categorias" class="sub">
+                                <li><a href="#" class="es">Eletrônicos</a></li>
+                                <li><a href="#" class="es">Cultura</a></li>
+                                <li><a href="#" class="es">Cosméticos</a></li>
+                                <li><a href="#" class="es">Eletrodomésticos</a></li>
+                                <li><a href="#" class="es">Outros</a></li>
+                            </ul>
+            </nav>
+        <section id="conteudo">
+            
+        </section>
+            <footer id="rodape">
+                <figure id="logoEmp"></figure>
+                    <a href="#" id="fb"></a>
+                    <a href="#" id="tw"></a>
+                    <a href="#" id="gg"></a>
+                
+            </footer>
+    </body>
+</html>
