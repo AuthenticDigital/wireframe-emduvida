@@ -5,6 +5,7 @@
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <link rel="stylesheet" type="text/css" href="css/estilo.css">
+        <link rel="stylesheet" href="css/font-awesome.css">
        <script>
             function mostraSub(valor){
                 verifica=document.getElementById(valor).style.display;
@@ -18,32 +19,15 @@
         </script>
     </head>
     <body>
+        <?php 
+        //Incluindo as páginas de cabeçalho no site:
         
-        <header id="topo">
-            
-            <section id="img">
-             </section>
-            <input type="search" name="buscar" id="busca" placeholder="buscar">
-            <input type="submit" value="Buscar" id="busc">
-            
-        </header>
-           <nav id="nav"> 
-               <a href="index.html" class="link"> INÍCIO </a>
-               <a href="pag_sobre.html" class="link"> SOBRE NÓS </a>
-               <a href="pag_contato.html" class="link"> CONTATO </a>
-               
-               <a href="pag_entrar.html" class="menu1"> ENTRAR</a>
-               <a href="pag_cadastro.html" class="menu1"> CADASTRO</a>
-               
-               <a href="#" onclick="mostraSub('categorias');" id="menu2">CATEGORIAS</a>
-                            <ul id="categorias" class="sub">
-                                <li><a href="#" class="es">Eletrônicos</a></li>
-                                <li><a href="#" class="es">Cultura</a></li>
-                                <li><a href="#" class="es">Cosméticos</a></li>
-                                <li><a href="#" class="es">Eletrodomésticos</a></li>
-                                <li><a href="#" class="es">Outros</a></li>
-                            </ul>
-            </nav>
+        include_once "./header.php";
+        
+        
+        
+        ?>
+        
         <section id="conteudo">
             <h1> Mais Votados</h1>
             
