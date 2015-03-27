@@ -17,7 +17,7 @@
         
         ?>
         <section id="corpo">
-            <img src="img/logo.png" alt="logo" class="imgLogo"> 
+            <img src="img/logo.png" alt="logo" class="imgLogo2"> 
             <p class="txtDescricao">
                 "Aquele que ama ou exerce ou deseja a dor, 
                 pode ocasionalmente adquirir algum prazer na labuta. 
@@ -26,6 +26,30 @@
                 vantagem com isso. Desmoralizado pelos encantos do prazer, 
                 percebe que a dor não resulta em prazer algum. Está tão cego 
                 pelo desejo que não pode prever quem não cumprirá seu dever por 
+                fraqueza de vontade."<br/>
+                "Aquele que ama ou exerce ou deseja a dor, 
+                pode ocasionalmente adquirir algum prazer na labuta. 
+                Para dar um exemplo trivial, qual de nós se submete a 
+                laborioso exercício físico, exceto para obter alguma 
+                vantagem com isso. Desmoralizado pelos encantos do prazer, 
+                percebe que a dor não resulta em prazer algum. Está tão cego 
+                pelo desejo que não pode prever quem não cumprirá seu dever por 
+                fraqueza de vontade."<br/>
+                "Aquele que ama ou exerce ou deseja a dor, 
+                pode ocasionalmente adquirir algum prazer na labuta. 
+                Para dar um exemplo trivial, qual de nós se submete a 
+                laborioso exercício físico, exceto para obter alguma 
+                vantagem com isso. Desmoralizado pelos encantos do prazer, 
+                percebe que a dor não resulta em prazer algum. Está tão cego 
+                pelo desejo que não pode prever quem não cumprirá seu dever por 
+                fraqueza de vontade." <br/>
+                "Aquele que ama ou exerce ou deseja a dor, 
+                pode ocasionalmente adquirir algum prazer na labuta. 
+                Para dar um exemplo trivial, qual de nós se submete a 
+                laborioso exercício físico, exceto para obter alguma 
+                vantagem com isso. Desmoralizado pelos encantos do prazer, 
+                percebe que a dor não resulta em prazer algum. Está tão cego 
+                pelo desejo que não pode prever quem não cumprirá seu dever por 
                 fraqueza de vontade."
                 "Aquele que ama ou exerce ou deseja a dor, 
                 pode ocasionalmente adquirir algum prazer na labuta. 
@@ -35,7 +59,6 @@
                 percebe que a dor não resulta em prazer algum. Está tão cego 
                 pelo desejo que não pode prever quem não cumprirá seu dever por 
                 fraqueza de vontade."
-                
             </p>
             
             

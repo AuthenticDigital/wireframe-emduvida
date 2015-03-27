@@ -44,10 +44,10 @@
                     <span>Confirme sua senha: </span><input type="password" class="formContato" name="uf">
                 </label>
                 <label for="cpf">
-                    <span>Cpf: </span><input type="text" class="formContato" name="cpf">
+                    <span>CPF: </span><input type="text" class="formContato" name="cpf">
                 </label>
                 <label for="uf">
-                    <span>uf: </span><input type="text" class="formContato" name="uf">
+                    <span>UF: </span><input type="text" class="formContato" name="uf">
                 </label>
                 
                

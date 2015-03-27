@@ -20,7 +20,7 @@
         <section id="corpo">
         
         <br/><Br/>
-            <h1 class="tituloPadrao">Entre em contato conosco</h1>
+            <h1 class="tituloPadrao">ENTRE EM CONTATO CONOSCO</h1>
             <br><br>
             
             <form method="post" action="" id="FormContato">
