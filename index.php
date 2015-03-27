@@ -39,6 +39,13 @@
         
          
         </section>
+         <?php
+        //Incluindo a página de rodapé  do site:
+        
+        include_once './footer.php';
+        
+        ?>
+        
         
         
 <!--            <footer id="rodape">
