@@ -12,11 +12,15 @@
 <body>
     <form method="post" action="" id="FormLogin">
                 <label for="Email">
-                    <span>Email: </span><input type="text" class="formLogin" name="Email">
+                    <span>Email: </span><input type="text" class="formContato" name="Email">
                 </label>
                 <label for="Senha">
-                    <span>Senha: </span> <input  class="formLogin" type="text" name="Senha"/>
+                    <span>Senha: </span> <input  class="formContato" type="text" name="Senha"/>
                 </label>
+        <input  class="formContato" type="submit" value="Entrar" name="entrar"/>
+          
+        
+        
     </form>
 </body>
 </html>
