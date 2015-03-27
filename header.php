@@ -1,3 +1,15 @@
+<script type="text/javascript" src="js/jquery-1.11.2.min.js"></script>
+<Script>
+$(function(){
+    
+
+        $('#btnCadastro').click(function(){
+           
+    $(location).attr('href', 'frmCadastro.php');
+        });
+
+});
+</script>
 <header id="cabecalho">
 
     <img class="imgLogo" src="img/logo.png" alt="logo"/>
@@ -8,8 +20,8 @@
     </form>
     
     <ul class="ulPadrao ulCadLogin">
-        <li class="liPadrao"><button class="formPadrao btnCadLogin"><i class="fa fa-pencil-square-o "></i>Cadastre-se</button></li>
-        <li class="liPadrao"><button class="formPadrao btnCadLogin"><i class="fa fa fa-sign-in "></i>Entrar</button></li>
+        <li class="liPadrao"><button class="formPadrao btnCadLogin" id="btnCadastro"><i class="fa fa-pencil-square-o "></i>Cadastre-se</button></li>
+        <li class="liPadrao"><button class="formPadrao btnCadLogin" ><i class="fa fa fa-sign-in "></i>Entrar</button></li>
     </ul>
     
     <nav class="menu"> 

@@ -267,7 +267,7 @@ input[type=image]{
     height: auto;
     background-color: #fbfbfb;
     margin: 0 auto;
-           
+    display: table;
     
 }
 
@@ -300,21 +300,22 @@ input[type=image]{
 .imgResenha{
     width: 100%;
     height: 400px;
-    border: 1px solid black;
     float: left;
     
 }
-/*
+
 .descricaoResenha{
-    width: 60%;
+    width: 90%;
     height: auto;
-    float: right;
+    float: left;
+    margin-left: 20px;
 }
-*/
+
 
 .leftBar{
     width: 40%;
     height: auto;
+    float: left;
 }
 .txtSessao{
     font-size: 16pt;
@@ -324,20 +325,19 @@ input[type=image]{
     height: auto;
     display: inline-block;
     
-    border: 1px solid black;
 }
 
 .defeitosResenha{
     width: 49%;
     height: auto;
     display: inline-block;
-    border: 1px solid black;
     
 }
 
 .notaResenha{
     width: 100%;
     height: 30px;
+    margin-top: 15px;
     text-align: center;
 }
 
@@ -351,4 +351,23 @@ input[type=image]{
     width: 40px;
     height: 40px;
     border-radius: 100px;
+}
+
+.rightBar{
+    width: 55%;
+    float: right;
+}
+
+label > span{
+    display: block;
+}
+
+input[type=submit]{
+    width: 50%;
+    margin-top: 20px;
+}
+
+#FormCadastro{
+    width: 80%;
+    margin: 0 auto;
 }
