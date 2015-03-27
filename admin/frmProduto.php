@@ -12,11 +12,18 @@
 <body>
     <form method="post" action="" id="FormLogin">
                 <label for="Email">
-                    <span>Email: </span><input type="text" class="formLogin" name="Email">
+                    <span>Nome do Produto: </span><input type="text" class="formContato" name="nomeProduto">
                 </label>
-                <label for="Senha">
-                    <span>Senha: </span> <input  class="formLogin" type="text" name="Senha"/>
-                </label>
+                <select>
+                    <option>Eletrodomésticos </option>
+                    <option>Eletrônicos </option>
+                    <option>Cultura </option>
+            
+                </select>
+        <input  class="formContato" type="submit" value="Entrar" name="entrar"/>
+          
+        
+        
     </form>
 </body>
 </html>
