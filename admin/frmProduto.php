@@ -13,14 +13,14 @@
     <form method="post" action="" id="FormLogin">
                 <label for="Email">
                     <span>Nome do Produto: </span><input type="text" class="formContato" name="nomeProduto">
-                </label>
+                </label><br><br>
                 <select>
                     <option>Eletrodomésticos </option>
                     <option>Eletrônicos </option>
                     <option>Cultura </option>
             
-                </select>
-        <input  class="formContato" type="submit" value="Entrar" name="entrar"/>
+                </select><br><br>
+        <input  class="formContato" type="submit" value="Enviar" name="enviar"/>
           
         
         
