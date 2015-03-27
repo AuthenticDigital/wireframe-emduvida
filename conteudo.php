@@ -59,7 +59,7 @@
         <a href="resenha.php">
             <figure class="figureProd normal " >
 
-                <figcaption class="legendaProduto"><span>Geladeira duplex<span class="txtCanto"><i class="fa fa-star"></i> 8,9</span> </span></figcaption>
+                <figcaption class="legendaProduto"><span>Geladeira<span class="txtCanto"><i class="fa fa-star"></i> 8,9</span> </span></figcaption>
                 <div class="imgDestaque" id="star6"></div>
             </figure> 
         </a>
@@ -125,7 +125,7 @@
         <a href="resenha.php">
             <figure class="figureProd normal " >
 
-                <figcaption class="legendaProduto"><span>Geladeira duplex<span class="txtCanto"><i class="fa fa-star"></i> 8,9</span> </span></figcaption>
+                <figcaption class="legendaProduto"><span>Geladeira <span class="txtCanto"><i class="fa fa-star"></i> 8,9</span> </span></figcaption>
                 <div class="imgDestaque" id="star6"></div>
             </figure> 
         </a>

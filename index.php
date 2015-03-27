@@ -9,6 +9,8 @@
 
     </head>
     <body>
+        
+        
         <?php 
         //Incluindo as páginas de cabeçalho no site:
         

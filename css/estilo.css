@@ -12,6 +12,8 @@
 
 .imgLogo{
     width: 20%;
+    height: 100px;
+    background-color: #ccc;
     display: inline-block;
     margin-left: 5%;
 }
@@ -176,7 +178,7 @@ input[type=image]{
 }
 
 .destaquestar{
-    background-image: url(../img/imgProdutos/iphone5c.jpg);
+    background-image: url(../img/imgProdutos/imgWire.jpg);
     background-position: center;
 }
 .destaque{
@@ -196,32 +198,32 @@ input[type=image]{
 }
 
 #star1{
-    background-image: url(../img/imgProdutos/DSC00426.jpg);
+    background-image: url(../img/imgProdutos/imgWire.jpg);
     background-position: center;
 }
 
 #star2{
-    background-image: url(../img/imgProdutos/7257480_1GG.jpg);
+    background-image: url(../img/imgProdutos/imgWire.jpg);
     background-position: center;
 }
 
 #star3{
-    background-image: url(../img/imgProdutos/Samsung-Galaxy-Tab-3-7.0-Preview-03.jpg);
+    background-image: url(../img/imgProdutos/imgWire.jpg);
     background-position: center;
 }
 
 #star4{
-    background-image: url(../img/imgProdutos/ipad-mini-3-7946-002.jpg);
+    background-image:url(../img/imgProdutos/imgWire.jpg);
     background-position: center;
 }
 
 #star5{
-    background-image: url(../img/imgProdutos/pc-hp.jpg);
+    background-image: url(../img/imgProdutos/imgWire.jpg);
     background-position: center;
 }
 
 #star6{
-    background-image: url(../img/imgProdutos/ArquivoExibir.jpg);
+    background-image: url(../img/imgProdutos/imgWire.jpg);
     background-position: center;
 }
 

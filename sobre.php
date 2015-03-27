@@ -17,48 +17,9 @@
         
         ?>
         <section id="corpo">
-            <img src="img/logo.png" alt="logo" class="imgLogo2"> 
+            <img src="" alt="logo" class="imgLogo"> 
             <p class="txtDescricao">
-                "Aquele que ama ou exerce ou deseja a dor, 
-                pode ocasionalmente adquirir algum prazer na labuta. 
-                Para dar um exemplo trivial, qual de nós se submete a 
-                laborioso exercício físico, exceto para obter alguma 
-                vantagem com isso. Desmoralizado pelos encantos do prazer, 
-                percebe que a dor não resulta em prazer algum. Está tão cego 
-                pelo desejo que não pode prever quem não cumprirá seu dever por 
-                fraqueza de vontade."<br/>
-                "Aquele que ama ou exerce ou deseja a dor, 
-                pode ocasionalmente adquirir algum prazer na labuta. 
-                Para dar um exemplo trivial, qual de nós se submete a 
-                laborioso exercício físico, exceto para obter alguma 
-                vantagem com isso. Desmoralizado pelos encantos do prazer, 
-                percebe que a dor não resulta em prazer algum. Está tão cego 
-                pelo desejo que não pode prever quem não cumprirá seu dever por 
-                fraqueza de vontade."<br/>
-                "Aquele que ama ou exerce ou deseja a dor, 
-                pode ocasionalmente adquirir algum prazer na labuta. 
-                Para dar um exemplo trivial, qual de nós se submete a 
-                laborioso exercício físico, exceto para obter alguma 
-                vantagem com isso. Desmoralizado pelos encantos do prazer, 
-                percebe que a dor não resulta em prazer algum. Está tão cego 
-                pelo desejo que não pode prever quem não cumprirá seu dever por 
-                fraqueza de vontade." <br/>
-                "Aquele que ama ou exerce ou deseja a dor, 
-                pode ocasionalmente adquirir algum prazer na labuta. 
-                Para dar um exemplo trivial, qual de nós se submete a 
-                laborioso exercício físico, exceto para obter alguma 
-                vantagem com isso. Desmoralizado pelos encantos do prazer, 
-                percebe que a dor não resulta em prazer algum. Está tão cego 
-                pelo desejo que não pode prever quem não cumprirá seu dever por 
-                fraqueza de vontade."
-                "Aquele que ama ou exerce ou deseja a dor, 
-                pode ocasionalmente adquirir algum prazer na labuta. 
-                Para dar um exemplo trivial, qual de nós se submete a 
-                laborioso exercício físico, exceto para obter alguma 
-                vantagem com isso. Desmoralizado pelos encantos do prazer, 
-                percebe que a dor não resulta em prazer algum. Está tão cego 
-                pelo desejo que não pode prever quem não cumprirá seu dever por 
-                fraqueza de vontade."
+                Somos um site que fala sobre resenhas, que o próprio usuário poderá fazer a resenha sobre algum produto especifico, contar sua “experiência” com o produto, expressando sua opinião, colocando seu ponto de vista. Esse site foi criado para ter mais praticidade no dia-a-dia, que ajude com mais facilidade pessoas que estão atrás de alguma opinião sobre o produto.
             </p>
             
             

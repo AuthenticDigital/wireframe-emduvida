@@ -12,7 +12,7 @@ $(function(){
 </script>
 <header id="cabecalho">
 
-    <img class="imgLogo" src="img/logo.png" alt="logo"/>
+    <img class="imgLogo" src="" alt="logo"/>
     <form method="post" action="" class="formPesquisa">
         
         <input type="search" class="formPadrao" name="buscar"/>

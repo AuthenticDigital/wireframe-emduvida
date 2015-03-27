@@ -25,7 +25,7 @@
         <article class="leftBar">
             
         
-        <div class="imgResenha"><img src="img/imgProdutos/iphone5c.jpg" alt="iphone-5-c"></div>
+        <div class="imgResenha"><img src="img/imgProdutos/imgWire.jpg" alt="iphone-5-c"></div>
         
         
         
