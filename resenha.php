@@ -22,17 +22,12 @@
         <br/><Br/>
         <h1 class="tituloPadrao" id="tituloResenha">Iphone 5 C</h1>
         <br><br>
+        <article class="leftBar">
+            
         
         <div class="imgResenha"><img src="img/imgProdutos/iphone5c.jpg" alt="iphone-5-c"></div>
         
-        <article class="descricaoResenha">
-            <h2 class="txtSessao">Descrição</h2>
-            <p class="txtDescricao">
-                O iPhone 5c é inovador, o designer é lindo, tela retina de 4 polegadas, é de plástico bicarbonato. Ele foi disponibilizado em cinco cores, Azul, verde, amarelo, rosa e branco, a câmera do 5c não tem o que reclamar, é iSight de 8MP, e com o iOS 8, memória de 8, 16, 32  GB.
-A cor da minha preferência foi o azul, é o mais bonito, estou com ele faz uns 2 meses e meio, e até agora não tive o que reclamar, o touch dele é ótimo, e nele já vem alguns aplicativos, como o FaceTime, com Bussola, Dicas, Gravador de Voz, Podcasts, Game Center, Bolsa de Valores, Saúde entre outros, ele é uma opção mais barata do iphone, digamos que ele ficou no lugar do iphone 5, só que com o designer diferente.
-
-            </p>
-        </article>
+        
         
        
          <article class="qualidadesResenha">
@@ -59,7 +54,7 @@ A cor da minha preferência foi o azul, é o mais bonito, estou com ele faz uns 
             
         </article>
         
-        <article class="defeitosResenha">
+        <article class="notaResenha">
             <h2 class="txtSessao">Nota do usuário</h2>
             
             <ul class="ulPadrao ulqualidades">
@@ -70,11 +65,22 @@ A cor da minha preferência foi o azul, é o mais bonito, estou com ele faz uns 
         </article>
         
         <article class="AutorResenha">
-            <h2 class="txtSessao">Nota do usuário</h2>
-            
-            <img src=""
+            <img class="imgPerfil" src="img/imgProdutos/imgperfil.jpg" alt="nome-do-usuario"/>
            
+            <p class="nomeAutor"><b>Postado Por: </b>Igor Carlos da Silva em 15/03/2015</p>
+            
         </article>
+        </article>
+        <article class="rightBar">
+        <article class="descricaoResenha">
+            <h2 class="txtSessao">Descrição</h2>
+            <p class="txtDescricao">
+                O iPhone 5c é inovador, o designer é lindo, tela retina de 4 polegadas, é de plástico bicarbonato. Ele foi disponibilizado em cinco cores, Azul, verde, amarelo, rosa e branco, a câmera do 5c não tem o que reclamar, é iSight de 8MP, e com o iOS 8, memória de 8, 16, 32  GB.
+A cor da minha preferência foi o azul, é o mais bonito, estou com ele faz uns 2 meses e meio, e até agora não tive o que reclamar, o touch dele é ótimo, e nele já vem alguns aplicativos, como o FaceTime, com Bussola, Dicas, Gravador de Voz, Podcasts, Game Center, Bolsa de Valores, Saúde entre outros, ele é uma opção mais barata do iphone, digamos que ele ficou no lugar do iphone 5, só que com o designer diferente.
+
+            </p>
+        </article>
+            </article>
         </section>
          <?php
         //Incluindo a página de rodapé  do site:
