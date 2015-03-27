@@ -16,12 +16,13 @@
         <br><br>
         <label for="TiCategotia">
                     <span>Título Categoria: </span><input type="text" class="" name="TiCategoria">
-        </label>
+        </label> <br><br>
         <label for="CorCategotia">
                     <span>Cor da Categoria: </span><input type="text" class="" name="CorCategoria">
         </label>
-        
-        
+         <br><br>
+              <input  class="" type="submit" value="Enviar" name="enviar"/>
+        <br><br>
         <table id="tabela">
     <caption>Categorias</caption>
 
