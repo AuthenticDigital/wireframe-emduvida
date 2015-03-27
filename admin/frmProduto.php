@@ -18,6 +18,7 @@
                     <option>Eletrodomésticos </option>
                     <option>Eletrônicos </option>
                     <option>Cultura </option>
+                    <option>Outros </option>
             
                 </select><br><br>
         <input  class="formContato" type="submit" value="Enviar" name="enviar"/>
