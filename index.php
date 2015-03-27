@@ -37,15 +37,6 @@
         ?>
         
         
-        
-<!--            <footer id="rodape">
-                <img src="img/icon_gg.png" alt="icon_gg" id="logoEmp">
-                <a href="#" ><img src="img/icon_fb.png" alt="icon_fb" class="icones"></a>
-                <a href="#" ><img src="img/icon_tw.png" alt="icon_tw" class="icones1"></a>
-                <a href="#" ><img src="img/icon_gg.png" alt="icon_gg" class="icones2"></a>
-                <a href="#" class="pp"> Política de Privacidade</a>
-                <a href="#" class="pp"> Termos de Uso</a>
-                <p id="mark">All Rights Reserved - Todos os Direitos Reservados<br/><br/>Em Dúvida 2015</p>
-            </footer>-->
+   
     </body>
 </html>

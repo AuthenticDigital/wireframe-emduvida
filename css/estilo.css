@@ -1,6 +1,7 @@
 *{
     padding: 0;
     margin: 0;
+    font-family: Arial;
 }
 
 #cabecalho{
@@ -248,7 +249,7 @@ input[type=image]{
 }
 
 .termos{
-    margin-top: 120px;
+    margin-top: 1.5%;
     float: right;
     margin-right: 25px;
     

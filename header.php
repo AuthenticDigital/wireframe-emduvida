@@ -33,7 +33,7 @@ $(function(){
             <li class="liPadrao liMenu"><a href="" class="linkPadrao">Cultura</a></li>
             <li class="liPadrao liMenu"><a href="" class="linkPadrao">Outros <i class="fa fa-caret-down"></i></a></li>
             
-            <li class="liPadrao liMenu fright"><a href="" class="linkPadrao ">Sobre nós</a></li>
+            <li class="liPadrao liMenu fright"><a href="sobre.php" class="linkPadrao ">Sobre nós</a></li>
             <li class="liPadrao liMenu fright"><a href="contato.php" class="linkPadrao fright">Contato</a></li>
         </ul>
     </nav>
