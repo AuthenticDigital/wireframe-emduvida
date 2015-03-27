@@ -6,17 +6,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <link rel="stylesheet" type="text/css" href="css/estilo.css">
         <link rel="stylesheet" href="css/font-awesome.css">
-       <script>
-            function mostraSub(valor){
-                verifica=document.getElementById(valor).style.display;
-                if(verifica !=="block"){
-                    document.getElementById(valor).style.display="block";
-                }
-                else{
-                    document.getElementById(valor).style.display="none";
-                }                
-            }
-        </script>
+
     </head>
     <body>
         <?php 

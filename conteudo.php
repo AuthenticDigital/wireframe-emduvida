@@ -5,7 +5,7 @@
     <article class="exibirConteudo">
         <h1 class="tituloPadrao"><i class="fa fa-star"></i>Mais votados</h1>
 
-        <a href="">
+        <a href="resenha.php">
             <figure class="figureProd destaque">
 
                 <figcaption class="legendaProduto"><span>Iphone 5 C <span class="txtCanto"><i class="fa fa-star"></i> 8,9</span> </span></figcaption>

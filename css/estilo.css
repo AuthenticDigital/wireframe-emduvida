@@ -230,6 +230,7 @@ input[type=image]{
 #rodape{
     width: 100%;
     height: 150px;
+    margin-top: 80px;
     background-color: #ccc;
 }
 
@@ -261,4 +262,32 @@ input[type=image]{
 }
 
 
+#corpo{
+    width: 90%;
+    height: auto;
+    background-color: #fbfbfb;
+    margin: 0 auto;
+           
+    
+}
 
+.formContato{
+    border: 1px solid black;
+    width: 60%;
+    height: 30px;
+    padding-left: 10px;
+}
+
+#FormContato > label{
+    display: block;
+    margin-top: 20px;
+}
+
+#contatoMsg{
+    width: 65%;
+    height: 300px;
+    padding-top: 10px;
+    max-height: 300px;
+    min-height: 300px;
+    
+}

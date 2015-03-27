@@ -15,14 +15,14 @@
     <nav class="menu"> 
         
         <ul class="ulPadrao ulMenu">
-            <li class="liPadrao liMenu"><a href="" class="linkPadrao">Inicio</a></li>
+            <li class="liPadrao liMenu"><a href="index.php" class="linkPadrao">Inicio</a></li>
             <li class="liPadrao liMenu"><a href="" class="linkPadrao">Eletrodomésticos</a></li>
             <li class="liPadrao liMenu"><a href="" class="linkPadrao">Eletrônicos</a></li>
             <li class="liPadrao liMenu"><a href="" class="linkPadrao">Cultura</a></li>
             <li class="liPadrao liMenu"><a href="" class="linkPadrao">Outros <i class="fa fa-caret-down"></i></a></li>
             
             <li class="liPadrao liMenu fright"><a href="" class="linkPadrao ">Sobre nós</a></li>
-            <li class="liPadrao liMenu fright"><a href="" class="linkPadrao fright">Contato</a></li>
+            <li class="liPadrao liMenu fright"><a href="contato.php" class="linkPadrao fright">Contato</a></li>
         </ul>
     </nav>
 
