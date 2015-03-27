@@ -10,7 +10,7 @@
     </head>
 
 <body>
-    <form method="post" action="" id="FormLogin">
+    <form method="post" action="" id="FormProduto">
                 <label for="Email">
                     <span>Nome do Produto: </span><input type="text" class="formContato" name="nomeProduto">
                 </label><br><br>
