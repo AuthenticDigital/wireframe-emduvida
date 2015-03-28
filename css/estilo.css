@@ -188,7 +188,7 @@ input[type=image]{
     float: left;
     margin-top: 2px;
     height: 408px;
-    
+    margin-right: 5px;
 }
 
 .exibirConteudo{
@@ -306,22 +306,32 @@ input[type=image]{
 ******************************************************************************/
 
 .imgResenha{
+    border-radius: 5px;
     width: 100%;
     height: 400px;
+    background-color: #8e8e8e;
     float: left;
     
 }
 
 .descricaoResenha{
-    width: 90%;
+    background-color: #ccc;
+    padding: 10px;
+    border-radius: 5px;
+    line-height: 25px;
+    width: 97%;
     height: auto;
     float: left;
-    margin-left: 20px;
+    text-align: justify;
+}
+
+.descricaoResenha > h2{
+    padding-bottom: 20px;
 }
 
 
 .leftBar{
-    width: 40%;
+    width: 43%;
     height: auto;
     float: left;
 }
@@ -329,28 +339,50 @@ input[type=image]{
     font-size: 16pt;
 }
 .qualidadesResenha{
-    width: 49%;
+    margin-top: 25px;
+    width: 47%;
+    background-color: #ccc;
+    border-radius: 5px;
+    padding: 5px;
     height: auto;
     display: inline-block;
     
+}
+
+.qualidadesResenha > h2{
+    padding-bottom: 15px;
 }
 
 .defeitosResenha{
-    width: 49%;
+    background-color: #ccc;
+    padding: 5px;
+    margin-left: 6px;
+    border-radius: 5px;
+    width: 47%;
     height: auto;
     display: inline-block;
     
 }
 
+.defeitosResenha > h2{
+    padding-bottom: 15px;
+}
 .notaResenha{
-    width: 100%;
-    height: 30px;
+    background-color: #ccc;
+    padding: 5px;
+    
+    border-radius: 5px;
+    width: 98%;
+    height: auto;
     margin-top: 15px;
     text-align: center;
 }
 
 .AutorResenha{
-    width: 80%;
+    padding: 10px;
+    background-color: #ccc;
+    width: 97%;
+    border-radius: 5px;
     margin-top: 20px;
     height: auto;
 }
