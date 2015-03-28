@@ -139,7 +139,7 @@
 
         
          <a href="resenha.php">
-            <figure class="figureProd normal" >
+            <figure class="figureProd normal negativas" >
 
                 <figcaption class="legendaProduto"><span>Gran Duos<span class="txtCanto"><i class="fa fa-star"></i> 8,9</span> </span></figcaption>
 
@@ -148,7 +148,7 @@
         </a>
 
         <a href="resenha.php">
-            <figure class="figureProd normal" >
+            <figure class="figureProd normal negativas" >
 
                 <figcaption class="legendaProduto"><span>Notebook<span class="txtCanto"><i class="fa fa-star"></i> 8,9</span> </span></figcaption>
                 <div class="imgDestaque" id="star2"></div>
@@ -156,7 +156,7 @@
         </a>
 
         <a href="resenha.php">
-            <figure class="figureProd normal " >
+            <figure class="figureProd normal negativas " >
 
                 <figcaption class="legendaProduto"><span>Tab 3<span class="txtCanto"><i class="fa fa-star"></i> 8,9</span> </span></figcaption>
                 <div class="imgDestaque" id="star3"></div>
@@ -165,7 +165,15 @@
 
 
         <a href="resenha.php">    
-            <figure class="figureProd normal " >
+            <figure class="figureProd normal negativas " >
+
+                <figcaption class="legendaProduto"><span>Ipad Mini<span class="txtCanto"><i class="fa fa-star"></i> 8,9</span> </span></figcaption>
+                <div class="imgDestaque" id="star4"></div>
+            </figure> 
+        </a>
+        
+        <a href="resenha.php">    
+            <figure class="figureProd normal negativas" >
 
                 <figcaption class="legendaProduto"><span>Ipad Mini<span class="txtCanto"><i class="fa fa-star"></i> 8,9</span> </span></figcaption>
                 <div class="imgDestaque" id="star4"></div>
