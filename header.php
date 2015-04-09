@@ -28,10 +28,10 @@ $(function(){
         
         <ul class="ulPadrao ulMenu">
             <li class="liPadrao liMenu"><a href="index.php" class="linkPadrao">Inicio</a></li>
-            <li class="liPadrao liMenu"><a href="" class="linkPadrao">Eletrodomésticos</a></li>
-            <li class="liPadrao liMenu"><a href="" class="linkPadrao">Eletrônicos</a></li>
-            <li class="liPadrao liMenu"><a href="" class="linkPadrao">Cultura</a></li>
-            <li class="liPadrao liMenu"><a href="" class="linkPadrao">Outros <i class="fa fa-caret-down"></i></a></li>
+            <li class="liPadrao liMenu"><a href="eletrodomesticos.php" class="linkPadrao">Eletrodomésticos</a></li>
+            <li class="liPadrao liMenu"><a href="eletronicos.php" class="linkPadrao">Eletrônicos</a></li>
+            <li class="liPadrao liMenu"><a href="cultura.php" class="linkPadrao">Cultura</a></li>
+            <li class="liPadrao liMenu"><a href="outros.php" class="linkPadrao">Outros <i class="fa fa-caret-down"></i></a></li>
             
             <li class="liPadrao liMenu fright"><a href="sobre.php" class="linkPadrao ">Sobre nós</a></li>
             <li class="liPadrao liMenu fright"><a href="contato.php" class="linkPadrao fright">Contato</a></li>

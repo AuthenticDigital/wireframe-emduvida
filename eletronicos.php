@@ -1,18 +1,33 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Em Dúvida</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" type="text/css" href="css/estilo.css">
+        <link rel="stylesheet" href="css/font-awesome.css">
 
-<article class="conteudo">
+    </head>
+    <body>
+        
+        
+        <?php 
+        //Incluindo as páginas de cabeçalho no site:
+        
+        include_once "./header.php";
+        
+        
+        ?>
+        
+        <section id="corpo">
+        
+        <article class="conteudo">
 
 
     <article class="exibirConteudo">
-        <h1 class="tituloPadrao"><i class="fa fa-star"></i>Mais votados</h1>
+        <h1 class="tituloPadrao"><i class="fa fa-star"></i>ELETRÔNICOS</h1>
 
-        <a href="resenha.php">
-            <figure class="figureProd destaque">
-
-                <figcaption class="legendaProduto"><span>Iphone 5 C <span class="txtCanto"><i class="fa fa-star"></i> 8,9</span> </span></figcaption>
-                <div class="imgDestaque destaquestar" ></div>
-            </figure> 
-        </a>
-
+        
         <a href="resenha.php">
             <figure class="figureProd normal" >
 
@@ -26,15 +41,31 @@
             <figure class="figureProd normal" >
 
                 <figcaption class="legendaProduto"><span>Notebook<span class="txtCanto"><i class="fa fa-star"></i> 8,9</span> </span></figcaption>
-                <div class="imgDestaque" id="star2"></div>
+                <div class="imgDestaque" id="star1"></div>
             </figure> 
         </a>
+        
+        <a href="resenha.php">
+            <figure class="figureProd normal" >
 
+                <figcaption class="legendaProduto"><span>Notebook<span class="txtCanto"><i class="fa fa-star"></i> 8,9</span> </span></figcaption>
+                <div class="imgDestaque" id="star1"></div>
+            </figure> 
+        </a>
+        
+        <a href="resenha.php">
+            <figure class="figureProd normal" >
+
+                <figcaption class="legendaProduto"><span>Notebook<span class="txtCanto"><i class="fa fa-star"></i> 8,9</span> </span></figcaption>
+                <div class="imgDestaque" id="star1"></div>
+            </figure> 
+        </a>
+        
         <a href="resenha.php">
             <figure class="figureProd normal " >
 
                 <figcaption class="legendaProduto"><span>Tab 3<span class="txtCanto"><i class="fa fa-star"></i> 8,9</span> </span></figcaption>
-                <div class="imgDestaque" id="star3"></div>
+                <div class="imgDestaque" id="star1"></div>
             </figure> 
         </a>
 
@@ -43,7 +74,7 @@
             <figure class="figureProd normal " >
 
                 <figcaption class="legendaProduto"><span>Ipad Mini<span class="txtCanto"><i class="fa fa-star"></i> 8,9</span> </span></figcaption>
-                <div class="imgDestaque" id="star4"></div>
+                <div class="imgDestaque" id="star1"></div>
             </figure> 
         </a>
 
@@ -52,33 +83,19 @@
             <figure class="figureProd normal " >
 
                 <figcaption class="legendaProduto"><span>All in one<span class="txtCanto"><i class="fa fa-star"></i> 8,9</span> </span></figcaption>
-                <div class="imgDestaque" id="star5" ></div>
+                <div class="imgDestaque" id="star1" ></div>
             </figure> 
         </a>
 
         <a href="resenha.php">
             <figure class="figureProd normal " >
 
-                <figcaption class="legendaProduto"><span>Geladeira<span class="txtCanto"><i class="fa fa-star"></i> 8,9</span> </span></figcaption>
-                <div class="imgDestaque" id="star6"></div>
+                <figcaption class="legendaProduto"><span>Iphone 5c<span class="txtCanto"><i class="fa fa-star"></i> 8,9</span> </span></figcaption>
+                <div class="imgDestaque" id="star1"></div>
             </figure> 
         </a>
 
-
-    </article>
-    
-    
-    <article class="exibirConteudo">
-        <h1 class="tituloPadrao"><i class="fa fa fa-eye"></i>Mais vistos</h1>
-
-       <a href="resenha.php">
-            <figure class="figureProd destaque">
-
-                <figcaption class="legendaProduto"><span>Iphone 5 C <span class="txtCanto"><i class="fa fa-star"></i> 8,9</span> </span></figcaption>
-                <div class="imgDestaque destaquestar" ></div>
-            </figure> 
-        </a>
-
+       
         <a href="resenha.php">
             <figure class="figureProd normal" >
 
@@ -92,7 +109,7 @@
             <figure class="figureProd normal" >
 
                 <figcaption class="legendaProduto"><span>Notebook<span class="txtCanto"><i class="fa fa-star"></i> 8,9</span> </span></figcaption>
-                <div class="imgDestaque" id="star2"></div>
+                <div class="imgDestaque" id="star1"></div>
             </figure> 
         </a>
 
@@ -100,7 +117,7 @@
             <figure class="figureProd normal " >
 
                 <figcaption class="legendaProduto"><span>Tab 3<span class="txtCanto"><i class="fa fa-star"></i> 8,9</span> </span></figcaption>
-                <div class="imgDestaque" id="star3"></div>
+                <div class="imgDestaque" id="star1"></div>
             </figure> 
         </a>
 
@@ -109,7 +126,7 @@
             <figure class="figureProd normal " >
 
                 <figcaption class="legendaProduto"><span>Ipad Mini<span class="txtCanto"><i class="fa fa-star"></i> 8,9</span> </span></figcaption>
-                <div class="imgDestaque" id="star4"></div>
+                <div class="imgDestaque" id="star1"></div>
             </figure> 
         </a>
 
@@ -118,65 +135,31 @@
             <figure class="figureProd normal " >
 
                 <figcaption class="legendaProduto"><span>All in one<span class="txtCanto"><i class="fa fa-star"></i> 8,9</span> </span></figcaption>
-                <div class="imgDestaque" id="star5" ></div>
+                <div class="imgDestaque" id="star1" ></div>
             </figure> 
         </a>
 
         <a href="resenha.php">
             <figure class="figureProd normal " >
 
-                <figcaption class="legendaProduto"><span>Geladeira <span class="txtCanto"><i class="fa fa-star"></i> 8,9</span> </span></figcaption>
-                <div class="imgDestaque" id="star6"></div>
+                <figcaption class="legendaProduto"><span>Iphone 3<span class="txtCanto"><i class="fa fa-star"></i> 8,9</span> </span></figcaption>
+                <div class="imgDestaque" id="star1"></div>
             </figure> 
         </a>
-
-
-    </article>
-    
-    
-    <article class="exibirConteudo">
-        <h1 class="tituloPadrao"><i class="fa fa-thumbs-o-down"></i>Resenhas negativas</h1>
-
-        
-         <a href="resenha.php">
-            <figure class="figureProd normal negativas" >
-
-                <figcaption class="legendaProduto"><span>Gran Duos<span class="txtCanto"><i class="fa fa-star"></i> 8,9</span> </span></figcaption>
-
-                <div class="imgDestaque" id="star1" ></div>
-            </figure> 
-        </a>
-
-        <a href="resenha.php">
-            <figure class="figureProd normal negativas" >
-
-                <figcaption class="legendaProduto"><span>Notebook<span class="txtCanto"><i class="fa fa-star"></i> 8,9</span> </span></figcaption>
-                <div class="imgDestaque" id="star2"></div>
-            </figure> 
-        </a>
-
-        <a href="resenha.php">
-            <figure class="figureProd normal negativas " >
-
-                <figcaption class="legendaProduto"><span>Tab 3<span class="txtCanto"><i class="fa fa-star"></i> 8,9</span> </span></figcaption>
-                <div class="imgDestaque" id="star3"></div>
-            </figure> 
-        </a>
-
 
         <a href="resenha.php">    
-            <figure class="figureProd normal negativas " >
+            <figure class="figureProd normal" >
 
                 <figcaption class="legendaProduto"><span>Ipad Mini<span class="txtCanto"><i class="fa fa-star"></i> 8,9</span> </span></figcaption>
-                <div class="imgDestaque" id="star4"></div>
+                <div class="imgDestaque" id="star1"></div>
             </figure> 
         </a>
         
         <a href="resenha.php">    
-            <figure class="figureProd normal negativas" >
+            <figure class="figureProd normal" >
 
                 <figcaption class="legendaProduto"><span>Ipad Mini<span class="txtCanto"><i class="fa fa-star"></i> 8,9</span> </span></figcaption>
-                <div class="imgDestaque" id="star4"></div>
+                <div class="imgDestaque" id="star1"></div>
             </figure> 
         </a>
 
@@ -184,3 +167,18 @@
 
     </article>
 </article>
+        
+        
+         
+        </section>
+         <?php
+        //Incluindo a página de rodapé  do site:
+        
+        include_once './footer.php';
+        
+        ?>
+        
+        
+   
+    </body>
+</html>
