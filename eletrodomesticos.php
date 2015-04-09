@@ -100,7 +100,7 @@
         <a href="resenha.php">
             <figure class="figureProd normal" >
 
-                <figcaption class="legendaProduto"><span>Torradeira<span class="txtCanto"><i class="fa fa-star"></i> 8,9</span> </span></figcaption>
+                <figcaption class="legendaProduto"><span>Televisão<span class="txtCanto"><i class="fa fa-star"></i> 8,9</span> </span></figcaption>
 
                 <div class="imgDestaque" id="star1" ></div>
             </figure> 
