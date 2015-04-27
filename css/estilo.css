@@ -106,6 +106,14 @@ input[type=image]{
 /*******************************************************************************
 *************************Editando a página inicial******************************
 ********************************************************************************/
+.propaganda{
+    width: 72%;
+    height: 100px;
+    background-color: #dfdfdf;
+    margin-top: 10px;
+    margin-left: 130px;
+}
+
 
 .tituloPadrao{
     font-size: 16pt;
@@ -113,11 +121,13 @@ input[type=image]{
     padding-bottom: 20px;
     margin-left: 2%;
 }
+
+
 .conteudo{
     width: 90%;
     height: auto;
     background-color: #fbfbfb;
-    margin: 0 auto;
+    margin-top: 10px;
 }
 
 
@@ -126,6 +136,15 @@ input[type=image]{
     
    
 }
+
+
+.destaque{
+    width: 35%;
+    float: left;
+    margin-top: 2px;
+    height: 408px;
+    margin-right: 5px;
+}  
 
 .normal{
     width: 20%;
@@ -183,13 +202,7 @@ input[type=image]{
     background-image: url(../img/imgProdutos/imgWire.jpg);
     background-position: center;
 }
-.destaque{
-    width: 35%;
-    float: left;
-    margin-top: 2px;
-    height: 408px;
-    margin-right: 5px;
-}
+
 
 .exibirConteudo{
     width: 90%;

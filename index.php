@@ -19,6 +19,19 @@
         
         ?>
         
+        
+        <section id="propaganda">
+            <?php
+            //incluindo a area de propaganda:
+            
+            include_once './propaganda.php';
+            
+            ?>
+            
+            
+        </section>
+        
+        
         <section id="corpo">
         
         <?php
@@ -31,7 +44,10 @@
         
          
         </section>
-         <?php
+         
+            
+            
+            <?php
         //Incluindo a página de rodapé  do site:
         
         include_once './footer.php';
