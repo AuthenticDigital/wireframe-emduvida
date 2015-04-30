@@ -72,6 +72,9 @@
     <article class="exibirConteudo">
         <h1 class="tituloPadrao"><i class="fa fa fa-eye"></i>Mais vistos</h1>
 
+        
+        
+        
        <a href="resenha.php">
             <figure class="figureProd destaque">
 
@@ -80,6 +83,10 @@
             </figure> 
         </a>
 
+        
+        
+        
+        
         <a href="resenha.php">
             <figure class="figureProd normal" >
 

@@ -106,12 +106,13 @@ input[type=image]{
 /*******************************************************************************
 *************************Editando a página inicial******************************
 ********************************************************************************/
+
 .propaganda{
-    width: 72%;
+    width: 70%;
     height: 100px;
     background-color: #dfdfdf;
     margin-top: 10px;
-    margin-left: 130px;
+    margin-left: 170px;
 }
 
 
@@ -126,9 +127,10 @@ input[type=image]{
 .conteudo{
     width: 90%;
     height: auto;
-    background-color: #fbfbfb;
+    //background-color: #fbfbfb;
     margin-top: 10px;
 }
+
 
 
 .figureProd{
@@ -198,10 +200,7 @@ input[type=image]{
     -webkit-transition: 0.5s all; 
 }
 
-.destaquestar{
-    background-image: url(../img/imgProdutos/imgWire.jpg);
-    background-position: center;
-}
+
 
 
 .exibirConteudo{
@@ -212,33 +211,38 @@ input[type=image]{
     display: inline-block;
 }
 
+.destaquestar{
+    background-image: url(../img/imgProdutos/iphone5c.jpg);
+}
+
+
 #star1{
-    background-image: url(../img/imgProdutos/imgWire.jpg);
+    background-image: url(../img/imgProdutos/granduos.jpg);
     background-position: center;
 }
  
 #star2{
-    background-image: url(../img/imgProdutos/imgWire.jpg);
+    background-image: url(../img/imgProdutos/notebook.jpg);
     background-position: center;
 }
 
 #star3{
-    background-image: url(../img/imgProdutos/imgWire.jpg);
+    background-image: url(../img/imgProdutos/galaxytab.jpg);
     background-position: center;
 }
 
 #star4{
-    background-image:url(../img/imgProdutos/imgWire.jpg);
+    background-image:url(../img/imgProdutos/ipadmini.jpg);
     background-position: center;
 }
 
 #star5{
-    background-image: url(../img/imgProdutos/imgWire.jpg);
+    background-image: url(../img/imgProdutos/pc-hp.jpg);
     background-position: center;
 }
 
 #star6{
-    background-image: url(../img/imgProdutos/imgWire.jpg);
+    background-image: url(../img/imgProdutos/geladeira.jpg);
     background-position: center;
 }
 

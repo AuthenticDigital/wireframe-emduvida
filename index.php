@@ -23,7 +23,6 @@
         <section id="propaganda">
             <?php
             //incluindo a area de propaganda:
-            
             include_once './propaganda.php';
             
             ?>
