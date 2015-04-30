@@ -19,20 +19,15 @@
         
         
         ?>
+
         
-        
-        <section id="propaganda">
-            <?php
+        <section id="corpo">
+            
+        <?php
             //incluindo a area de propaganda:
             include_once './propaganda.php';
             
-            ?>
-            
-            
-        </section>
-        
-        
-        <section id="corpo">
+        ?>
         
         <?php
         //Incluindo a página de conteudo inicial do site:

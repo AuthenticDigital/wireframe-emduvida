@@ -108,11 +108,14 @@ input[type=image]{
 ********************************************************************************/
 
 .propaganda{
-    width: 70%;
+    width: 79%;
     height: 100px;
     background-color: #dfdfdf;
-    margin-top: 10px;
-    margin-left: 170px;
+    margin-top: 20px;
+    margin-left: 10%;
+    border-width: 20px;
+    border-color: #333;
+    
 }
 
 
@@ -128,7 +131,9 @@ input[type=image]{
     width: 90%;
     height: auto;
     //background-color: #fbfbfb;
-    margin-top: 10px;
+    margin-top: 20px;
+    margin-left: 5%;
+    
 }
 
 
@@ -246,11 +251,13 @@ input[type=image]{
     background-position: center;
 }
 
+
+
 #star7{
-    background-image: url(../img/imgProdutos/imgWire.jpg);
+    background-image: url(../img/imgpropaganda/propaganda.jpg);
     background-position: center;
     
-}
+}  
 
 
 /**********************************************************************
