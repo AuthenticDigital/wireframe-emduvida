@@ -16,6 +16,7 @@
     background-color: #ccc;
     display: inline-block;
     margin-left: 5%;
+    margin-top: 5px;
 }
 
 .formPadrao{
@@ -108,13 +109,14 @@ input[type=image]{
 ********************************************************************************/
 
 .propaganda{
-    width: 79%;
+    width: 80%;
     height: 100px;
     background-color: #dfdfdf;
     margin-top: 20px;
     margin-left: 10%;
-    border-width: 20px;
-    border-color: #333;
+    border-width: thin;
+    border-style: outset;
+    border-color: #8e8e8e;
     
 }
 
@@ -132,7 +134,7 @@ input[type=image]{
     height: auto;
     //background-color: #fbfbfb;
     margin-top: 20px;
-    margin-left: 5%;
+    margin-left: 6%;
     
 }
 
@@ -140,6 +142,8 @@ input[type=image]{
 
 .figureProd{
     display: inline-block;
+     border-width: 30px;
+    border-color: #333;
     
    
 }
@@ -151,6 +155,12 @@ input[type=image]{
     margin-top: 2px;
     height: 408px;
     margin-right: 5px;
+    border-width: 0.9px;
+    border-style: outset;
+    border-color: #dfdfdf;
+    
+   
+    
 }  
 
 .normal{
@@ -159,6 +169,10 @@ input[type=image]{
     margin-left: 5px;
     height: 200px;
     background-color: #000;
+    border-width: 0.9px;
+    border-style: outset;
+    border-color: #dfdfdf;
+    
 }
 
 
@@ -197,6 +211,8 @@ input[type=image]{
     height: 100%;
     // -webkit-filter: opacity(.7);
      z-index: -1;
+     
+    
 }
 
 .legendaProduto:hover{
@@ -211,7 +227,7 @@ input[type=image]{
 .exibirConteudo{
     width: 90%;
     margin-left: 5%;
-    margin-top: 20px;
+    margin-top: 50px;
     height: auto;
     display: inline-block;
 }
